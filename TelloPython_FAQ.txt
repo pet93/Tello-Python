@@ -101,4 +101,7 @@ Q9:What are the bands and channels of wifi UDP communication supported by the te
 
 A9:Currently only supports 2.4GHz, and the supported channels include 0-11.
 
+Q10:I'm trying to run a simple python script in which Tello takeoffs, regularizes its height and finally it lands. Actually any command for moving up, down, forward, backward, left and right doesn't work. I printed the typical results of 'send_command': "error not joystick", "out of range" (send cmd:down 10, it is strange that 10cm are out of range), and also "non-existing PPS 0 referenced", "decode_slice_header error", "no frame!" appear in sequence. How can I solve those problems? Thank you
+
+
 If you have other questions, please ask questions or add!
